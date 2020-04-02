@@ -3,7 +3,9 @@ In-depth analysis of NANomaterials for OPTICal localized surface plasmon resonan
 ## Problems Solved
 This software solves the problem of analysing the LSPR bands of plasmonic nanomaterials in monitoring processes, with hundreds of transmittance spectra, in a few seconds. It was conceived mainly for high-resolution LSPR spectroscopy systems. A statistical analysis of the LSPR bands with normalized spectral distributions is performed to compare different sensing platforms, and the signal-to-noise ratio (SNR) is calculated for each analysed parameter. Furthermore, all the spectra are fitted with a polynomial function, which enables a fast and direct analysis of the transmittance (LSPR band) minimum.
 ## Files
-The instalation file NANOPTICS24.exe
+The instalation file - NANOPTICS24.exe
+
+A text file containning the raw data to try the software - raw_transmittance_data.zip
 
 This Readme file
 ## Installation
